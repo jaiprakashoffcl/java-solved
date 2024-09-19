@@ -1,1 +1,1 @@
-# java-solved
+# java-solved-beginner
